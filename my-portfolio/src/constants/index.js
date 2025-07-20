@@ -157,7 +157,7 @@ export const EXTRACURRICULARS = [
     ],
     link: "https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o",
     link2:
-      "https://insidesherpa.s3.amazonaws.com/completion-certificates/AWS/kkE9HyeNcw6rwCRGw_AWS_gGQcf3AFCKExZaED4_1644482179163_completion_certificate.pdf",
+      "https://drive.google.com/file/d/1ownnKgc0R-NMMjHG_m74OO7qlj1VaVH6/view?usp=sharing",
   },
   {
     title: "Goldman Sachs",
