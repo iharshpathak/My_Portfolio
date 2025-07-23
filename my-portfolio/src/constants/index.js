@@ -179,7 +179,7 @@ export const EXTRACURRICULARS = [
     technologies: ["Python", "Typescript", "Replit", "Git"],
     link: "https://www.theforage.com/simulations/jpmorgan/software-engineering-btjx?ref=gGQcf3AFCKExZaED4",
     link2:
-      "https://drive.google.com/file/d/1Fdz0-LHXMeLc6nGoaQRxNjWuT2mRZaBr/view",
+      "https://drive.google.com/file/d/1LM-vWlDEwU1nq5rVuHW39L3kxcXvpE8W/view",
   },
 ];
 
