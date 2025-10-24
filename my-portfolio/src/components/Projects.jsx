@@ -13,7 +13,7 @@ import google from "../assets/google.png"
 import hackerrank from "../assets/hackerrank.png"
 import kaggle from "../assets/kaggle.png"
 import googleCloud from "../assets/googleCloud.png"
-import Jexi from "../assets/Jexi.png"
+import jexi from "../assets/jexi.png"
 
 
 export const HERO_CONTENT = `I’m a versatile full stack developer specializing in the MERN stack, passionate about crafting robust, scalable, and user-friendly web solutions. My experience spans across React, Node.js, Express, MongoDB, and JavaScript/TypeScript—backed by strong foundations in Java and Spring Boot. I bring creativity through UI/UX design and precision through backend architecture, always striving to build intuitive digital experiences that meet business goals and delight users.`;
@@ -36,7 +36,7 @@ export const PROJECTS = [
   {
     title: "Jexi - Your Smart Taxi !",
     type: "Front-End",
-    image: Jexi,
+    image: jexi,
     description:
       "Jexi is a mobility app built to match your vibe and fuel your journey. With bold design and a fleet for every mood, it’s urban travel reimagined—stylish, expressive, and always main-character energy.",
     technologies: ["Next.js", "Tailwind Css", "React", "Zustand", "Clerk", "Ola Maps"],
