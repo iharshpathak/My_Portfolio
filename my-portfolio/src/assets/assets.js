@@ -7,6 +7,7 @@ import jhasher from './jhasher.png'
 import covidTracker from './covidTracker.png'
 import about from './about.jpg'
 import jhasherAndroid from './jhasherAndroid.png'
+import jexi from './jexi.png'
 
 export const assets = {
   HarshPathakLogo,
@@ -17,7 +18,8 @@ export const assets = {
   jhasher,
   covidTracker,
   about,
-  jhasherAndroid
+  jhasherAndroid,
+  jexi
 }
 
 
