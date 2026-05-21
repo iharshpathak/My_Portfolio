@@ -23,12 +23,35 @@ export const ABOUT_TEXT = `I am a full stack developer with a passion for crafti
 
 export const EXPERIENCES = [
   {
+    year: "2026 - Present",
+    role: "Software Engineer",
+    company: "HMG Technology",
+    description: `Working on enterprise-grade web applications using Java, Spring Boot, React.js, and Microsoft Azure. Developed scalable backend services and RESTful APIs with Spring Boot, integrated cloud solutions on Azure, and contributed to responsive frontend development using React.js. Collaborated with teams on deployment workflows, database integration, and performance optimization for modern full stack applications.`,
+    technologies: [
+      "Java",
+      "Spring Boot",
+      "React.js",
+      "Microsoft Azure",
+      "REST APIs",
+      "MySQL",
+      "JavaScript",
+    ],
+  },
+  {
     year: "2023 - Present",
     role: "Full Stack Developer",
     company: "Freelance",
     description: `Delivered tailored full stack web solutions for diverse clients using the MERN stack. Designed and developed responsive user interfaces in React.js and optimized backend services with Node.js and Express. Integrated MongoDB and MySQL for efficient data management and implemented RESTful APIs to support dynamic front-end behavior. Applied UX design principles and tools like Figma to enhance usability and client satisfaction.`,
-    technologies: ["JavaScript", "React.js", "Node.js", "MongoDB", "Express.js", "Figma", "MySQL"],
-  }
+    technologies: [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "Figma",
+      "MySQL",
+    ],
+  },
 ];
 
 
