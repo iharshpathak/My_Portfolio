@@ -6,7 +6,7 @@ import { IoCopyOutline } from "react-icons/io5";
 import { BsDownload } from "react-icons/bs";
 
 const Conatct = () =>{
-  const url = "https://drive.google.com/uc?export=download&id=1wNQVmlYyW6yAWRoArM8oY1iQWBwuPNT4";
+  const url = "https://drive.google.com/uc?export=download&id=1WKAtHtZr0ElgNDi_dkKJHSLuWxqx_LPD";
 
   const DownloadClick = (e) =>{
     toast.success("Download Started!");
