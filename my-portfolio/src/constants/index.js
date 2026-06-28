@@ -16,9 +16,10 @@ import googleCloud from "../assets/googleCloud.png"
 import jexi from "../assets/jexi.png"
 
 
-export const HERO_CONTENT = `I’m a versatile full stack software engineer specializing in the Java Spring Boot + React and MERN stack, passionate about crafting robust, scalable, and user-friendly web solutions. My experience spans across React, Node.js, Express, MongoDB, and JavaScript/TypeScript—backed by strong foundations in Java and Spring Boot. I bring creativity through UI/UX design and precision through backend architecture, always striving to build intuitive digital experiences that meet business goals and delight users.`;
+export const HERO_CONTENT = `I build scalable full stack web applications with a strong focus on backend engineering, clean architecture, and performance. With 3+ years of experience, I specialize in Java, Spring Boot, React.js, and Node.js, developing production-ready software from REST APIs and databases to responsive user interfaces.`;
 
-export const ABOUT_TEXT = `I am a full stack software engineer with a passion for crafting scalable, efficient, and user-centric web applications. My journey spans real-world projects in the MERN stack, Java, Spring Boot, React and UI/UX design—delivering tailored digital solutions for diverse client needs. I’ve built systems that balance backend reliability with front-end elegance. Beyond projects, I’ve solved 355+ problems on LeetCode and 100+ on GeeksforGeeks, sharpening my problem-solving instincts through consistent live coding. Outside the dev world, I’m always tinkering with new tech, exploring design trends, and pushing the limits of what’s possible through hands-on experimentation.`;
+export const ABOUT_TEXT = `I'm a Full Stack Software Engineer with 3+ years of experience building scalable web applications using Java, Spring Boot, React.js, Node.js, and TypeScript. My work spans enterprise software, freelance projects, and personal projects, where I focus on designing reliable backend services, clean REST APIs, and responsive user interfaces. I enjoy solving complex engineering problems through clean, maintainable code and continuously improving application performance. Beyond professional work, I've solved 390+ LeetCode and 100+ GeeksforGeeks problems, strengthening my foundation in data structures, algorithms, software architecture, and system design.
+`;
 
 
 export const EXPERIENCES = [

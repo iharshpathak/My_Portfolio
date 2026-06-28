@@ -34,8 +34,15 @@ const Hero =()=>{
             <motion.h1 variants={container(0.5)} initial="hidden" animate="visible" className=' pb-16 text-5xl font-thin tracking-tight lg:mt-16 lg:text-8xl'>Harsh Pathak</motion.h1>
             <motion.span variants={container(1)} initial="hidden" animate="visible" className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent'>
               Full Stack Software Engineer
+
+               <div><p className='text-sm pt-8 bg-gradient-to-r from-amber-300 via-emerald-400 to-pink-400 bg-clip-text text-3xl tracking-tight text-transparent'>Java • Spring Boot • React • Node.js • PostgreSQL • Azure</p></div>
             </motion.span>
-            <motion.p variants={container(1.50)} initial="hidden" animate="visible" className='my-2 max-w-xl py-6 font-light tracking-tighter'>{HERO_CONTENT}</motion.p>
+            <motion.p variants={container(1.50)} initial="hidden" animate="visible" className='my-2 max-w-xl py-6 font-light tracking-tighter'>
+              {HERO_CONTENT}
+              <div><p className='text-xs pt-6 text-center lg:text-left text-white hover:bg-gradient-to-r hover:from-amber-300 hover:via-emerald-400 hover:to-pink-400 hover:bg-clip-text text-3xl hover:tracking-tight hover:text-transparent transition-all duration-700 ease-out '>💼 3+ Years  🚀 15+ Projects 
+              🧠 390+ LeetCode 
+              💻 100+ GeeksforGeeks</p></div>
+            </motion.p>
           </div>
         </div>
         <div className='w-full lg:w-1/2 lg:p-8'>
